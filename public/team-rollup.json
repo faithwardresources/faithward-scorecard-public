@@ -1,0 +1,2011 @@
+{
+  "schema_version": "1.0.0",
+  "data_refresh_timestamp": "2026-09-20T21:00:08.330Z",
+  "advisor_rows": [
+    {
+      "rank": 3,
+      "advisor_name": "Mike Paranich",
+      "slug": "mike-paranich",
+      "gross_aum_mtd": 795991.4904,
+      "gross_aum_ytd": 9327714.678400073,
+      "annual_goal": 15000000,
+      "percent_to_goal": 62.18476452266716,
+      "weighted_pipeline": 13999158,
+      "projected_year_end": 23326872.678400073,
+      "projected_percent_to_goal": 155.51248452266714,
+      "goal_outlook": "On Track",
+      "intro_appointments": 66,
+      "review_appointments": 177,
+      "total_completed_appointments": 357,
+      "networking_events": 10,
+      "households": 400,
+      "book_aum": 123186286.83
+    },
+    {
+      "rank": 4,
+      "advisor_name": "Henry Hahn",
+      "slug": "henry-hahn",
+      "gross_aum_mtd": 1317267.2607100003,
+      "gross_aum_ytd": 6062863.421111116,
+      "annual_goal": 10000000,
+      "percent_to_goal": 60.62863421111116,
+      "weighted_pipeline": 3086900,
+      "projected_year_end": 9149763.421111116,
+      "projected_percent_to_goal": 91.49763421111116,
+      "goal_outlook": "Close",
+      "intro_appointments": 72,
+      "review_appointments": 121,
+      "total_completed_appointments": 236,
+      "networking_events": 13,
+      "households": 160,
+      "book_aum": 32976274.759999998
+    },
+    {
+      "rank": 1,
+      "advisor_name": "Kyle Beissel",
+      "slug": "kyle-beissel",
+      "gross_aum_mtd": 213655.2458,
+      "gross_aum_ytd": 11423491.158807077,
+      "annual_goal": 15000000,
+      "percent_to_goal": 76.15660772538051,
+      "weighted_pipeline": 6031200,
+      "projected_year_end": 17454691.158807077,
+      "projected_percent_to_goal": 116.36460772538051,
+      "goal_outlook": "On Track",
+      "intro_appointments": 6,
+      "review_appointments": 114,
+      "total_completed_appointments": 146,
+      "networking_events": 0,
+      "households": 232,
+      "book_aum": 246465777.04
+    },
+    {
+      "rank": 6,
+      "advisor_name": "Bryan Mahon",
+      "slug": "bryan-mahon",
+      "gross_aum_mtd": 30933.335600000002,
+      "gross_aum_ytd": 1612267.9865349997,
+      "annual_goal": 10000000,
+      "percent_to_goal": 16.122679865349998,
+      "weighted_pipeline": 5292050,
+      "projected_year_end": 6904317.986535,
+      "projected_percent_to_goal": 69.04317986535,
+      "goal_outlook": "Off Track",
+      "intro_appointments": 68,
+      "review_appointments": 80,
+      "total_completed_appointments": 197,
+      "networking_events": 5,
+      "households": 140,
+      "book_aum": 21424575.79
+    },
+    {
+      "rank": 2,
+      "advisor_name": "Lee Paglia",
+      "slug": "lee-paglia",
+      "gross_aum_mtd": 19000.584000000003,
+      "gross_aum_ytd": 11039620.046308663,
+      "annual_goal": 15000000,
+      "percent_to_goal": 73.59746697539109,
+      "weighted_pipeline": 4460758,
+      "projected_year_end": 15500378.046308663,
+      "projected_percent_to_goal": 103.33585364205776,
+      "goal_outlook": "On Track",
+      "intro_appointments": 15,
+      "review_appointments": 119,
+      "total_completed_appointments": 146,
+      "networking_events": 5,
+      "households": 426,
+      "book_aum": 247887157.39999998
+    },
+    {
+      "rank": 7,
+      "advisor_name": "Angie Shea",
+      "slug": "angie-shea",
+      "gross_aum_mtd": 14767.97,
+      "gross_aum_ytd": 852687.7555355,
+      "annual_goal": 7500000,
+      "percent_to_goal": 11.369170073806668,
+      "weighted_pipeline": 14250000,
+      "projected_year_end": 15102687.7555355,
+      "projected_percent_to_goal": 201.36917007380669,
+      "goal_outlook": "On Track",
+      "intro_appointments": 0,
+      "review_appointments": 0,
+      "total_completed_appointments": 0,
+      "networking_events": 0,
+      "households": 143,
+      "book_aum": 58938731.87
+    },
+    {
+      "rank": 5,
+      "advisor_name": "Dan Bailey",
+      "slug": "dan-bailey",
+      "gross_aum_mtd": 754882.2363199999,
+      "gross_aum_ytd": 4214422.76252526,
+      "annual_goal": 7500000,
+      "percent_to_goal": 56.192303500336806,
+      "weighted_pipeline": 0,
+      "projected_year_end": 4214422.76252526,
+      "projected_percent_to_goal": 56.192303500336806,
+      "goal_outlook": "Off Track",
+      "intro_appointments": 7,
+      "review_appointments": 52,
+      "total_completed_appointments": 70,
+      "networking_events": 0,
+      "households": 457,
+      "book_aum": 201051511.01
+    }
+  ],
+  "team_totals": {
+    "gross_aum_mtd": 3146498.1228300007,
+    "gross_aum_ytd": 106537964.75455205,
+    "net_aum": 17143507.994543917,
+    "annual_goal": 80000000,
+    "weighted_pipeline": 47120066,
+    "projected_year_end": 91653133.80922268,
+    "intro_appointments": 234,
+    "review_appointments": 663,
+    "total_completed_appointments": 1152,
+    "networking_events": 33,
+    "households": 1958,
+    "book_aum": 931930314.6999999
+  },
+  "team_averages": {
+    "gross_aum_ytd": 6361866.829888955,
+    "weighted_pipeline": 6731438,
+    "projected_year_end": 13093304.829888955,
+    "appointments": 164.57142857142858,
+    "networking_events": 4.714285714285714,
+    "average_household_size": 451920.5666343831
+  },
+  "team_percent_to_goal": 55.66633476152836,
+  "team_projected_percent_to_goal": 114.56641726152836,
+  "monthly_production_trend": [
+    {
+      "date": "2026-01-31",
+      "capturedAt": "2026-01-31T23:59:59Z",
+      "grossInflows": 11881777.833542664
+    },
+    {
+      "date": "2026-02-28",
+      "capturedAt": "2026-02-28T23:59:59Z",
+      "grossInflows": 22901660.92900739
+    },
+    {
+      "date": "2026-03-31",
+      "capturedAt": "2026-03-31T23:59:59Z",
+      "grossInflows": 35111275.22192431
+    },
+    {
+      "date": "2026-04-30",
+      "capturedAt": "2026-04-30T23:59:59Z",
+      "grossInflows": 50314354.82722962
+    },
+    {
+      "date": "2026-05-31",
+      "capturedAt": "2026-05-31T23:59:59Z",
+      "grossInflows": 65001215.0971499
+    },
+    {
+      "date": "2026-06-30",
+      "capturedAt": "2026-06-30T23:59:59Z",
+      "grossInflows": 77109775.20667148
+    },
+    {
+      "date": "2026-07-31",
+      "capturedAt": "2026-07-31T23:59:59Z",
+      "grossInflows": 86401871.80810623
+    },
+    {
+      "date": "2026-08-31",
+      "capturedAt": "2026-08-31T23:59:59Z",
+      "grossInflows": 96905802.66258512
+    },
+    {
+      "date": "2026-09-20",
+      "grossInflows": 106537964.75455204,
+      "totalOutflows": 89394456.76000816,
+      "netFlows": 17143507.994543906,
+      "capturedAt": "2026-09-20T11:09:47.351Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 10316080.772525791,
+          "totalOutflows": 13147523.652351206,
+          "netFlows": -2831442.879825415
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 346223.85620000004,
+          "netFlows": -221349.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 852687.7555355,
+          "totalOutflows": 1209578.9727646,
+          "netFlows": -356891.21722910006
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 21093449.472327106,
+          "totalOutflows": 15826455.652640311,
+          "netFlows": 5266993.819686795
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1612267.9865349997,
+          "totalOutflows": 333639.39,
+          "netFlows": 1278628.5965349996
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 4214422.76252526,
+          "totalOutflows": 7718866.26198619,
+          "netFlows": -3504443.49946093
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6358884.639113279,
+          "totalOutflows": 5768838.850524616,
+          "netFlows": 590045.7885886626
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 6062863.421111116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4973836.858012397
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 21469119.687141135,
+          "totalOutflows": 32694023.575876236,
+          "netFlows": -11224903.8887351
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11423491.158807077,
+          "totalOutflows": 2066172.0389233606,
+          "netFlows": 9357319.119883716
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11039620.046308663,
+          "totalOutflows": 5443557.630199999,
+          "netFlows": 5596062.416108664
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2597058.03555,
+          "totalOutflows": 1668304.60513,
+          "netFlows": 928753.4304200001
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 9327714.678400073,
+          "totalOutflows": 2025469.362912913,
+          "netFlows": 7302245.31548716
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45429.76367206,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11346.58372794
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "grossInflows": 106440183.36455204,
+      "totalOutflows": 89030718.78967816,
+      "netFlows": 17409464.574873894,
+      "capturedAt": "2026-09-19T11:16:27.774Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 9718838.279125787,
+          "totalOutflows": 12982592.175951209,
+          "netFlows": -3263753.8968254216
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 346223.85620000004,
+          "netFlows": -221349.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1194523.1655355,
+          "totalOutflows": 1242975.5627646002,
+          "netFlows": -48452.39722910011
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 21084848.872327104,
+          "totalOutflows": 15786206.652640311,
+          "netFlows": 5298642.219686793
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1607267.9865349997,
+          "totalOutflows": 333639.39,
+          "netFlows": 1273628.5965349996
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 4213762.76252526,
+          "totalOutflows": 7717810.701986191,
+          "netFlows": -3504047.9394609304
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6347942.809113279,
+          "totalOutflows": 5743157.030524616,
+          "netFlows": 604785.7785886629
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 6062935.381111116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4973908.818012396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 21721973.810541134,
+          "totalOutflows": 32771937.77194624,
+          "netFlows": -11049963.961405106
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11347491.158807077,
+          "totalOutflows": 1989865.1389233605,
+          "netFlows": 9357626.019883716
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11038532.046308663,
+          "totalOutflows": 5442513.630199999,
+          "netFlows": 5596018.416108664
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2605527.03555,
+          "totalOutflows": 1687804.6051299996,
+          "netFlows": 917722.4304200006
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 9326612.178400073,
+          "totalOutflows": 1840189.362912913,
+          "netFlows": 7486422.81548716
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "grossInflows": 105951194.94885205,
+      "totalOutflows": 88900798.88967814,
+      "netFlows": 17050396.059173904,
+      "capturedAt": "2026-09-18T11:13:17.919Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 9646046.083125787,
+          "totalOutflows": 12972533.653951209,
+          "netFlows": -3326487.570825422
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 346223.85620000004,
+          "netFlows": -221349.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1194523.1655355,
+          "totalOutflows": 1237975.5627646002,
+          "netFlows": -43452.39722910011
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20988783.854137108,
+          "totalOutflows": 15591622.972640311,
+          "netFlows": 5397160.881496796
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1607017.9865349997,
+          "totalOutflows": 333639.39,
+          "netFlows": 1273378.5965349996
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 4213733.872525262,
+          "totalOutflows": 7716174.5919861905,
+          "netFlows": -3502440.719460929
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6330317.84911328,
+          "totalOutflows": 5782604.160524617,
+          "netFlows": 547713.688588663
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5784578.323601116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4695551.760502396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22061216.94808046,
+          "totalOutflows": 32882896.20298556,
+          "netFlows": -10821679.254905097
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11347491.158807077,
+          "totalOutflows": 1986865.1389233605,
+          "netFlows": 9360626.019883716
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11027090.262308665,
+          "totalOutflows": 5442013.592199998,
+          "netFlows": 5585076.670108667
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2605507.03555,
+          "totalOutflows": 1687804.6051299996,
+          "netFlows": 917702.4304200006
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974960.530860744,
+          "totalOutflows": 1774642.2518735868,
+          "netFlows": 7200318.278987158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "grossInflows": 105950777.41795205,
+      "totalOutflows": 88900798.88967814,
+      "netFlows": 17049978.528273903,
+      "capturedAt": "2026-09-17T11:14:50.634Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 9646034.675625786,
+          "totalOutflows": 12972533.653951209,
+          "netFlows": -3326498.978325423
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 346223.85620000004,
+          "netFlows": -221349.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1194517.0230355002,
+          "totalOutflows": 1237975.5627646002,
+          "netFlows": -43458.53972909995
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20988383.864137106,
+          "totalOutflows": 15591622.972640311,
+          "netFlows": 5396760.891496794
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1607017.9865349997,
+          "totalOutflows": 333639.39,
+          "netFlows": 1273378.5965349996
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 4213733.872525262,
+          "totalOutflows": 7716174.5919861905,
+          "netFlows": -3502440.719460929
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6330317.84911328,
+          "totalOutflows": 5782604.160524617,
+          "netFlows": 547713.688588663
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5784578.323601116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4695551.760502396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22061216.95718046,
+          "totalOutflows": 32882896.20298556,
+          "netFlows": -10821679.2458051
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11347491.158807077,
+          "totalOutflows": 1986865.1389233605,
+          "netFlows": 9360626.019883716
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11027090.262308665,
+          "totalOutflows": 5442013.592199998,
+          "netFlows": 5585076.670108667
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2605507.03555,
+          "totalOutflows": 1687804.6051299996,
+          "netFlows": 917702.4304200006
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974960.530860744,
+          "totalOutflows": 1774642.2518735868,
+          "netFlows": 7200318.278987158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "grossInflows": 105887953.69235204,
+      "totalOutflows": 88655448.70280816,
+      "netFlows": 17232504.9895439,
+      "capturedAt": "2026-09-16T11:12:50.012Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 9619579.565625787,
+          "totalOutflows": 12907544.32555121,
+          "netFlows": -3287964.759925423
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 346223.85620000004,
+          "netFlows": -221349.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1194517.0230355002,
+          "totalOutflows": 1237188.7727646,
+          "netFlows": -42671.749729099916
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20971868.347637106,
+          "totalOutflows": 15468955.31484031,
+          "netFlows": 5502913.032796796
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1606977.9865349997,
+          "totalOutflows": 333453.055,
+          "netFlows": 1273524.9315349997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 4203241.414125261,
+          "totalOutflows": 7698345.31198619,
+          "netFlows": -3495103.8978609294
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6328386.299113279,
+          "totalOutflows": 5755137.020154617,
+          "netFlows": 573249.2789586624
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5784450.112001116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4695423.548902396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22059899.788080458,
+          "totalOutflows": 32874449.20298556,
+          "netFlows": -10814549.414905101
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11347491.158807077,
+          "totalOutflows": 1986865.1389233605,
+          "netFlows": 9360626.019883716
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11027090.262308665,
+          "totalOutflows": 5441708.280599998,
+          "netFlows": 5585381.981708666
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599812.59555,
+          "totalOutflows": 1687804.6051299996,
+          "netFlows": 912007.9904200006
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974711.260860745,
+          "totalOutflows": 1771970.908173587,
+          "netFlows": 7202740.352687158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "grossInflows": 104233370.5944467,
+      "totalOutflows": 88398950.82503814,
+      "netFlows": 15834419.769408552,
+      "capturedAt": "2026-09-15T12:24:34.540Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 7506279.195625789,
+          "totalOutflows": 12898103.99555121,
+          "netFlows": -5391824.79992542
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 342173.85620000004,
+          "netFlows": -217299.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1194517.0230355002,
+          "totalOutflows": 1236247.5927646,
+          "netFlows": -41730.56972909975
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20830091.207637105,
+          "totalOutflows": 15457920.254840309,
+          "netFlows": 5372170.952796796
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1606937.9865349997,
+          "totalOutflows": 333453.055,
+          "netFlows": 1273484.9315349997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3994930.5979352607,
+          "totalOutflows": 7585170.21421619,
+          "netFlows": -3590239.6162809297
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6328786.299113279,
+          "totalOutflows": 5773377.210154617,
+          "netFlows": 555409.088958662
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5784450.112001116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4695423.548902396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22868816.220365107,
+          "totalOutflows": 32759908.37298556,
+          "netFlows": -9891092.152620453
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11347490.954807077,
+          "totalOutflows": 1986865.1389233605,
+          "netFlows": 9360625.815883717
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11027090.262308665,
+          "totalOutflows": 5441708.280599998,
+          "netFlows": 5585381.981708666
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599412.59555,
+          "totalOutflows": 1666622.0351299997,
+          "netFlows": 932790.5604200005
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974640.260860745,
+          "totalOutflows": 1771597.908173587,
+          "netFlows": 7203042.352687158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "capturedAt": "2026-09-14T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 7506279.195625789,
+          "totalOutflows": 12898103.99555121,
+          "netFlows": -5391824.79992542
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 342173.85620000004,
+          "netFlows": -217299.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1194517.0230355002,
+          "totalOutflows": 1236247.5927646,
+          "netFlows": -41730.56972909975
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20830091.207637105,
+          "totalOutflows": 15457920.254840309,
+          "netFlows": 5372170.952796796
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1606937.9865349997,
+          "totalOutflows": 333453.055,
+          "netFlows": 1273484.9315349997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3994930.5979352607,
+          "totalOutflows": 7585170.21421619,
+          "netFlows": -3590239.6162809297
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6328786.299113279,
+          "totalOutflows": 5773377.210154617,
+          "netFlows": 555409.088958662
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5784450.112001116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4695423.548902396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22190254.8134851,
+          "totalOutflows": 32759908.37298556,
+          "netFlows": -10569653.55950046
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11347490.954807077,
+          "totalOutflows": 1986865.1389233605,
+          "netFlows": 9360625.815883717
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11027090.262308665,
+          "totalOutflows": 5441708.280599998,
+          "netFlows": 5585381.981708666
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599412.59555,
+          "totalOutflows": 1666622.0351299997,
+          "netFlows": 932790.5604200005
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974640.260860745,
+          "totalOutflows": 1771597.908173587,
+          "netFlows": 7203042.352687158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        }
+      ],
+      "grossInflows": 103554809.18756668,
+      "totalOutflows": 88398950.82503814,
+      "netFlows": 15155858.362528546
+    },
+    {
+      "date": "2026-09-13",
+      "capturedAt": "2026-09-13T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 7501773.715625791,
+          "totalOutflows": 12862773.95075121,
+          "netFlows": -5361000.235125419
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 342173.85620000004,
+          "netFlows": -217299.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1193573.0230355002,
+          "totalOutflows": 1225347.5927646,
+          "netFlows": -31774.56972909975
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20825912.267637104,
+          "totalOutflows": 15446450.244840309,
+          "netFlows": 5379462.022796795
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1606912.9865349997,
+          "totalOutflows": 332564.555,
+          "netFlows": 1274348.4315349997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3992362.7208152604,
+          "totalOutflows": 7355163.202811552,
+          "netFlows": -3362800.481996292
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6326165.299113279,
+          "totalOutflows": 5764630.980154618,
+          "netFlows": 561534.3189586615
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5783850.112001116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4694823.548902396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22072598.212080464,
+          "totalOutflows": 32692374.68738556,
+          "netFlows": -10619776.475305095
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11317072.334807077,
+          "totalOutflows": 1951377.7789233602,
+          "netFlows": 9365694.555883717
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11026524.262308665,
+          "totalOutflows": 5441663.820999999,
+          "netFlows": 5584860.441308666
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599312.59555,
+          "totalOutflows": 1666622.0351299997,
+          "netFlows": 932690.5604200005
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974459.260860745,
+          "totalOutflows": 1770019.408173587,
+          "netFlows": 7204439.852687158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        }
+      ],
+      "grossInflows": 103390444.66904207,
+      "totalOutflows": 87996965.02363351,
+      "netFlows": 15393479.645408547
+    },
+    {
+      "date": "2026-09-11",
+      "capturedAt": "2026-09-11T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 7501773.715625791,
+          "totalOutflows": 12862773.95075121,
+          "netFlows": -5361000.235125419
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 342173.85620000004,
+          "netFlows": -217299.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1193573.0230355002,
+          "totalOutflows": 1225347.5927646,
+          "netFlows": -31774.56972909975
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20825912.267637104,
+          "totalOutflows": 15446450.244840309,
+          "netFlows": 5379462.022796795
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1606912.9865349997,
+          "totalOutflows": 332564.555,
+          "netFlows": 1274348.4315349997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3992362.7208152604,
+          "totalOutflows": 7355163.202811552,
+          "netFlows": -3362800.481996292
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6326165.299113279,
+          "totalOutflows": 5764630.980154618,
+          "netFlows": 561534.3189586615
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5783850.112001116,
+          "totalOutflows": 1089026.5630987198,
+          "netFlows": 4694823.548902396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 22072598.212080464,
+          "totalOutflows": 32692374.68738556,
+          "netFlows": -10619776.475305095
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11317072.334807077,
+          "totalOutflows": 1951377.7789233602,
+          "netFlows": 9365694.555883717
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11026524.262308665,
+          "totalOutflows": 5441663.820999999,
+          "netFlows": 5584860.441308666
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599312.59555,
+          "totalOutflows": 1666622.0351299997,
+          "netFlows": 932690.5604200005
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8974459.260860745,
+          "totalOutflows": 1770019.408173587,
+          "netFlows": 7204439.852687158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        }
+      ],
+      "grossInflows": 103390444.66904207,
+      "totalOutflows": 87996965.02363351,
+      "netFlows": 15393479.645408547
+    },
+    {
+      "date": "2026-09-10",
+      "capturedAt": "2026-09-10T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 7498701.715625791,
+          "totalOutflows": 12843757.280751212,
+          "netFlows": -5345055.565125421
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 342173.85620000004,
+          "netFlows": -217299.28120000003
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1193573.0230355002,
+          "totalOutflows": 1225347.5927646,
+          "netFlows": -31774.56972909975
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20813971.367637105,
+          "totalOutflows": 15435550.244840309,
+          "netFlows": 5378421.122796796
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1606827.9865349997,
+          "totalOutflows": 332564.555,
+          "netFlows": 1274263.4315349997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3991539.0608152603,
+          "totalOutflows": 7334348.202811552,
+          "netFlows": -3342809.141996292
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 6324229.08911328,
+          "totalOutflows": 5759130.980154618,
+          "netFlows": 565098.1089586625
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 5783850.112001116,
+          "totalOutflows": 996470.95309872,
+          "netFlows": 4787379.158902396
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 21574744.212080464,
+          "totalOutflows": 32662828.33138556,
+          "netFlows": -11088084.119305097
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11317072.334807077,
+          "totalOutflows": 1951044.4449233604,
+          "netFlows": 9366027.889883718
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11026403.262308665,
+          "totalOutflows": 5441663.820999999,
+          "netFlows": 5584739.441308666
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599312.59555,
+          "totalOutflows": 1665622.0351299997,
+          "netFlows": 933690.5604200005
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8919338.760860745,
+          "totalOutflows": 1769779.408173587,
+          "netFlows": 7149559.352687158
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 45053.30367205999,
+          "totalOutflows": 56776.3474,
+          "netFlows": -11723.043727940007
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        }
+      ],
+      "grossInflows": 102819491.39904206,
+      "totalOutflows": 87817058.0536335,
+      "netFlows": 15002433.345408548
+    },
+    {
+      "date": "2026-08-31",
+      "capturedAt": "2026-08-31T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 6830094.112225791,
+          "totalOutflows": 12418982.184551215,
+          "netFlows": -5588888.072325417
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 342173.85620000004,
+          "netFlows": -217299.2812
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1179241.8120354998,
+          "totalOutflows": 1149465.0427646,
+          "netFlows": 29776.769270899968
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 20327832.679837108,
+          "totalOutflows": 15278549.084840309,
+          "netFlows": 5049283.594996788
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1581004.6509349998,
+          "totalOutflows": 332256.555,
+          "netFlows": 1248748.095935
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3459340.526205261,
+          "totalOutflows": 7097129.467579554,
+          "netFlows": -3637788.9413742884
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 4344781.426106321,
+          "totalOutflows": 5132707.327587659,
+          "netFlows": -787925.9014813404
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 4745503.160401119,
+          "totalOutflows": 990915.39309872,
+          "netFlows": 3754587.767302399
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 20402972.580680467,
+          "totalOutflows": 31562756.437785566,
+          "netFlows": -11159783.857105095
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 11103085.913007079,
+          "totalOutflows": 1936295.6249233603,
+          "netFlows": 9166790.288083717
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 11020619.462308664,
+          "totalOutflows": 5365576.3511999985,
+          "netFlows": 5655043.111108664
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 3064513.95555,
+          "totalOutflows": 1743469.00513,
+          "netFlows": 1321044.9504199997
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 8157624.844460748,
+          "totalOutflows": 1746048.158173587,
+          "netFlows": 6411576.686287161
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 564312.9638320599,
+          "totalOutflows": 56901.3474,
+          "netFlows": 507411.61643206
+        }
+      ],
+      "grossInflows": 96905802.66258512,
+      "totalOutflows": 85153225.83623455,
+      "netFlows": 11752576.826350547
+    },
+    {
+      "date": "2026-07-31",
+      "capturedAt": "2026-07-31T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 5904602.5897368975,
+          "totalOutflows": 11141433.897891209,
+          "netFlows": -5236831.308154315
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 341363.85620000004,
+          "netFlows": -216489.2812
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 1116511.7734264,
+          "totalOutflows": 914241.0956645999,
+          "netFlows": 202270.67776180018
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 19882285.889037106,
+          "totalOutflows": 14253984.463470317,
+          "netFlows": 5628301.425566791
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 1122983.098735,
+          "totalOutflows": 244141.95,
+          "netFlows": 878841.1487349998
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3416032.8975252607,
+          "totalOutflows": 6586081.424442212,
+          "netFlows": -3170048.5269169495
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 4226746.120685721,
+          "totalOutflows": 4137685.1089476617,
+          "netFlows": 89061.01173806014
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 4395646.909601119,
+          "totalOutflows": 979626.8284987201,
+          "netFlows": 3416020.081102399
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 17749637.513572827,
+          "totalOutflows": 27917893.280480072,
+          "netFlows": -10168255.76690724
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 9407125.168778457,
+          "totalOutflows": 1750328.3727709402,
+          "netFlows": 7656796.796007517
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 10324452.032308664,
+          "totalOutflows": 5029129.217399999,
+          "netFlows": 5295322.814908665
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2599880.87555,
+          "totalOutflows": 1465948.61548,
+          "netFlows": 1133932.2600700003
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 5838119.532906086,
+          "totalOutflows": 1494774.122853587,
+          "netFlows": 4343345.4100525
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 292972.83124266,
+          "totalOutflows": 56776.3474,
+          "netFlows": 236196.48384265995
+        }
+      ],
+      "grossInflows": 86401871.80810621,
+      "totalOutflows": 76313408.58149932,
+      "netFlows": 10088463.226606887
+    },
+    {
+      "date": "2026-06-30",
+      "capturedAt": "2026-06-30T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 5271097.564356899,
+          "totalOutflows": 10248307.292888198,
+          "netFlows": -4977209.728531314
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 124874.57500000001,
+          "totalOutflows": 304913.5662,
+          "netFlows": -180038.9912
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 926811.9829264,
+          "totalOutflows": 640308.3532876001,
+          "netFlows": 286503.62963880005
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 17781039.67328054,
+          "totalOutflows": 11372344.851363748,
+          "netFlows": 6408694.821916792
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 860817.0256100001,
+          "totalOutflows": 198815.28,
+          "netFlows": 662001.74561
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 3045426.0217600004,
+          "totalOutflows": 5989581.302539099,
+          "netFlows": -2944155.2807790996
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 2802942.09928572,
+          "totalOutflows": 3819892.490687662,
+          "netFlows": -1016950.3914019398
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 3790864.854128269,
+          "totalOutflows": 884834.7400200001,
+          "netFlows": 2906030.114108271
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 16358078.572072834,
+          "totalOutflows": 25715462.091332056,
+          "netFlows": -9357383.519259233
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 8519523.875738457,
+          "totalOutflows": 1362959.04877094,
+          "netFlows": 7156564.826967519
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 9832291.622538663,
+          "totalOutflows": 4849644.922399998,
+          "netFlows": 4982646.700138664
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2568336.4755500006,
+          "totalOutflows": 1369064.1154800002,
+          "netFlows": 1199272.3600700009
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 4934698.033181085,
+          "totalOutflows": 1375267.5162535869,
+          "netFlows": 3559430.5169275003
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 292972.83124266,
+          "totalOutflows": 56774.8474,
+          "netFlows": 236197.98384265995
+        }
+      ],
+      "grossInflows": 77109775.20667154,
+      "totalOutflows": 68188170.41862288,
+      "netFlows": 8921604.788048621
+    },
+    {
+      "date": "2026-05-31",
+      "capturedAt": "2026-05-31T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 4259578.317946899,
+          "totalOutflows": 9379566.461374208,
+          "netFlows": -5119988.143427313
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 6480,
+          "totalOutflows": 5511.24,
+          "netFlows": 968.7600000000002
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 917202.9473363999,
+          "totalOutflows": 545594.1850664,
+          "netFlows": 371608.7622699999
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 16259031.871565541,
+          "totalOutflows": 8918864.497903747,
+          "netFlows": 7340167.37366179
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 693678.5856100001,
+          "totalOutflows": 171037.5,
+          "netFlows": 522641.08560999995
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 2886349.2897600005,
+          "totalOutflows": 4008194.825483,
+          "netFlows": -1121845.5357229994
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 1904585.5592857199,
+          "totalOutflows": 2878649.05258465,
+          "netFlows": -974063.4932989302
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 3093175.573374669,
+          "totalOutflows": 699109.7655800002,
+          "netFlows": 2394065.8077946682
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 14110796.793754533,
+          "totalOutflows": 24080811.68250206,
+          "netFlows": -9970014.888747536
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 7544250.93892676,
+          "totalOutflows": 1033344.6291709401,
+          "netFlows": 6510906.309755819
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 6949445.009118664,
+          "totalOutflows": 4780166.211499998,
+          "netFlows": 2169278.797618664
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 2562177.3889500005,
+          "totalOutflows": 1307933.87548,
+          "netFlows": 1254243.5134700006
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 3545100.0120810866,
+          "totalOutflows": 973201.007953587,
+          "netFlows": 2571899.004127499
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 269362.80943965,
+          "totalOutflows": 18868.0674,
+          "netFlows": 250494.74203964992
+        }
+      ],
+      "grossInflows": 65001215.09714992,
+      "totalOutflows": 58800853.00199858,
+      "netFlows": 6200362.095151312
+    },
+    {
+      "date": "2026-04-30",
+      "capturedAt": "2026-04-30T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 4247097.630584498,
+          "totalOutflows": 8341085.124474211,
+          "netFlows": -4093987.493889715
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 6480,
+          "totalOutflows": 3891.24,
+          "netFlows": 2588.76
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 877951.224,
+          "totalOutflows": 334414.9924799999,
+          "netFlows": 543536.23152
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 10761326.52703126,
+          "totalOutflows": 6326113.544503548,
+          "netFlows": 4435212.982527708
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 588310.15503,
+          "totalOutflows": 171037.5,
+          "netFlows": 417272.65502999997
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 1849833.5280600004,
+          "totalOutflows": 3373085.0835229987,
+          "netFlows": -1523251.5554629997
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 1818854.2462857198,
+          "totalOutflows": 2616558.344324999,
+          "netFlows": -797704.09803928
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 2025753.0175346702,
+          "totalOutflows": 336344.07,
+          "netFlows": 1689408.9475346694
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 12890446.517354533,
+          "totalOutflows": 19718831.86452009,
+          "netFlows": -6828385.347165534
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 6633426.659326758,
+          "totalOutflows": 920381.4651709402,
+          "netFlows": 5713045.194155818
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 4153342.8980610627,
+          "totalOutflows": 3637710.6388999997,
+          "netFlows": 515632.2591610625
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 1189845.565,
+          "totalOutflows": 1073656.55,
+          "netFlows": 116189.01499999996
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 3018441.6651810873,
+          "totalOutflows": 759247.199953587,
+          "netFlows": 2259194.4652274996
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 253245.19377999997,
+          "totalOutflows": 18000,
+          "netFlows": 235245.19377999997
+        }
+      ],
+      "grossInflows": 50314354.82722959,
+      "totalOutflows": 47630357.61785037,
+      "netFlows": 2683997.2093792274
+    },
+    {
+      "date": "2026-03-31",
+      "capturedAt": "2026-03-31T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 3704591.948544498,
+          "totalOutflows": 6413542.809974204,
+          "netFlows": -2708950.8614297113
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 6480,
+          "totalOutflows": 0,
+          "netFlows": 6480
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 333856.33849999995,
+          "totalOutflows": 220261.74757999997,
+          "netFlows": 113594.59091999997
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 8525629.967308952,
+          "totalOutflows": 3335495.7642999995,
+          "netFlows": 5190134.203008951
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 580539.17123,
+          "totalOutflows": 10987.5,
+          "netFlows": 569551.67123
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 1646243.89506,
+          "totalOutflows": 2906563.4596529994,
+          "netFlows": -1260319.5645929999
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 1218096.55628572,
+          "totalOutflows": 1970718.0243249983,
+          "netFlows": -752621.4680392804
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 1643761.5799696704,
+          "totalOutflows": 334138.12,
+          "netFlows": 1309623.45996967
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 8758822.36786153,
+          "totalOutflows": 12881441.84599907,
+          "netFlows": -4122619.478137542
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 3791075.165736761,
+          "totalOutflows": 831341.9911709402,
+          "netFlows": 2959733.174565821
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 1956878.388906063,
+          "totalOutflows": 973552.2278999999,
+          "netFlows": 983326.1610060635
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 987593.595,
+          "totalOutflows": 885495.26,
+          "netFlows": 102098.33500000002
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 1709171.1737410869,
+          "totalOutflows": 258753.55255358695,
+          "netFlows": 1450417.6211874997
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 248535.07377999995,
+          "totalOutflows": 3000,
+          "netFlows": 245535.07377999995
+        }
+      ],
+      "grossInflows": 35111275.221924275,
+      "totalOutflows": 31025292.303455796,
+      "netFlows": 4085982.918468471
+    },
+    {
+      "date": "2026-02-28",
+      "capturedAt": "2026-02-28T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 1352889.7952364003,
+          "totalOutflows": 2514504.83870235,
+          "netFlows": -1161615.0434659498
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 106783.095,
+          "totalOutflows": 180825.72997999997,
+          "netFlows": -74042.63497999999
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 7105609.359148951,
+          "totalOutflows": 3106472.1519,
+          "netFlows": 3999137.2072489494
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 404902.5,
+          "totalOutflows": 10987.5,
+          "netFlows": 393915
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 916462.40826,
+          "totalOutflows": 1667086.3591990003,
+          "netFlows": -750623.9509389998
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 842958.8672999999,
+          "totalOutflows": 1411121.9546999997,
+          "netFlows": -568163.0873999998
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 846412.2851699999,
+          "totalOutflows": 101803.42,
+          "netFlows": 744608.8651699999
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 5916378.256710948,
+          "totalOutflows": 8783562.925055388,
+          "netFlows": -2867184.6683444506
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 1950307.6911699998,
+          "totalOutflows": 207023.9942,
+          "netFlows": 1743283.69697
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 1462169.1355036,
+          "totalOutflows": 929617.2676999999,
+          "netFlows": 532551.8678035999
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 475722.18499999994,
+          "totalOutflows": 817096.3200000001,
+          "netFlows": -341374.135
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 1521065.3505075,
+          "totalOutflows": 740716.1116000002,
+          "netFlows": 780349.2389074999
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        }
+      ],
+      "grossInflows": 22901660.9290074,
+      "totalOutflows": 20470818.57303674,
+      "netFlows": 2430842.355970649
+    },
+    {
+      "date": "2026-01-31",
+      "capturedAt": "2026-01-31T23:59:59.000Z",
+      "advisors": [
+        {
+          "name": "Adrian Young",
+          "grossInflows": 437053.28003640013,
+          "totalOutflows": 1735749.0621023485,
+          "netFlows": -1298695.7820659499
+        },
+        {
+          "name": "Adrian Young / Scott Monger",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Angela Shea",
+          "grossInflows": 7229.943499999999,
+          "totalOutflows": 128094.40960000001,
+          "netFlows": -120864.46610000002
+        },
+        {
+          "name": "Bernie Bostwick",
+          "grossInflows": 2489408.1144999997,
+          "totalOutflows": 2164175.2895000004,
+          "netFlows": 325232.82499999984
+        },
+        {
+          "name": "Bryan Mahon",
+          "grossInflows": 404015,
+          "totalOutflows": 0,
+          "netFlows": 404015
+        },
+        {
+          "name": "Dan Bailey",
+          "grossInflows": 577204.57146,
+          "totalOutflows": 1330539.4485299997,
+          "netFlows": -753334.8770699998
+        },
+        {
+          "name": "Dirk Olds",
+          "grossInflows": 641974.8322999999,
+          "totalOutflows": 949280.6346999999,
+          "netFlows": -307305.8024000001
+        },
+        {
+          "name": "Henry Hahn",
+          "grossInflows": 597841.68754,
+          "totalOutflows": 96025.1,
+          "netFlows": 501816.58754
+        },
+        {
+          "name": "House Account",
+          "grossInflows": 2300607.005305159,
+          "totalOutflows": 3929373.97356066,
+          "netFlows": -1628766.9682555015
+        },
+        {
+          "name": "Kyle Beissel",
+          "grossInflows": 1496151.2285,
+          "totalOutflows": 89680.9367,
+          "netFlows": 1406470.2918
+        },
+        {
+          "name": "Lee Paglia",
+          "grossInflows": 886719.0441036,
+          "totalOutflows": 566359.3017,
+          "netFlows": 320359.7424035999
+        },
+        {
+          "name": "Lenny Marsch",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        },
+        {
+          "name": "Merri Benjamin",
+          "grossInflows": 199978.57499999998,
+          "totalOutflows": 691966.8,
+          "netFlows": -491988.22500000003
+        },
+        {
+          "name": "Mike Paranich",
+          "grossInflows": 1843594.5512974998,
+          "totalOutflows": 1589588.4407999995,
+          "netFlows": 254006.11049750017
+        },
+        {
+          "name": "Paul Brown",
+          "grossInflows": 0,
+          "totalOutflows": 0,
+          "netFlows": 0
+        }
+      ],
+      "grossInflows": 11881777.833542656,
+      "totalOutflows": 13270833.397193009,
+      "netFlows": -1389055.5636503515
+    }
+  ],
+  "monthly_appointment_trend": null,
+  "monthly_networking_trend": null,
+  "rankings_order": "Gross AUM YTD descending",
+  "display_labels": {
+    "gross_aum_mtd": "Gross AUM MTD",
+    "gross_aum_ytd": "Gross AUM YTD",
+    "annual_gross_aum_goal": "Annual Gross AUM Goal",
+    "percent_to_goal": "Percent to Goal",
+    "remaining_amount_to_goal": "Remaining Amount to Goal",
+    "weighted_pipeline": "Weighted Pipeline",
+    "unweighted_pipeline": "Unweighted Pipeline",
+    "projected_year_end_production": "Projected Year-End Production",
+    "projected_year_end_percent_to_goal": "Projected Year-End Percent to Goal",
+    "goal_outlook": "Goal Outlook",
+    "intro_appointments": "Intro Appointments",
+    "review_appointments": "Review Appointments",
+    "total_completed_appointments": "Total Completed Appointments",
+    "weekly_average_appointments": "Weekly Average Appointments",
+    "networking_events": "Networking Events",
+    "referrals": "Referrals",
+    "households": "Households",
+    "book_aum": "Book AUM",
+    "average_household_size": "Average Household AUM"
+  }
+}

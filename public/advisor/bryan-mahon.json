@@ -1,0 +1,372 @@
+{
+  "schema_version": "1.0.0",
+  "data_refresh_timestamp": "2026-09-20T21:00:08.330Z",
+  "advisor_name": "Bryan Mahon",
+  "advisor_id": "bryan-mahon",
+  "slug": "bryan-mahon",
+  "rank": 6,
+  "reporting_period": {
+    "year": 2026,
+    "quarter": "YTD"
+  },
+  "last_refresh_timestamp": "2026-09-20T21:00:08.330Z",
+  "gross_aum_mtd": 30933.335600000002,
+  "gross_aum_mtd_display": "$30,933",
+  "gross_aum_ytd": 1612267.9865349997,
+  "gross_aum_ytd_display": "$1,612,268",
+  "annual_gross_aum_goal": 10000000,
+  "annual_gross_aum_goal_display": "$10,000,000",
+  "percent_to_goal": 16.122679865349998,
+  "percent_to_goal_display": "16.1%",
+  "remaining_amount_to_goal": 8387732.013465,
+  "remaining_amount_to_goal_display": "$8,387,732",
+  "weighted_pipeline": 5292050,
+  "weighted_pipeline_display": "$5,292,050",
+  "unweighted_pipeline": null,
+  "unweighted_pipeline_display": "Unavailable",
+  "projected_year_end_production": 6904317.986535,
+  "projected_year_end_production_display": "$6,904,318",
+  "projected_year_end_percent_to_goal": 69.04317986535,
+  "projected_year_end_percent_to_goal_display": "69.0%",
+  "goal_outlook": "Off Track",
+  "status_color_category": "Off Track",
+  "intro_appointments": 68,
+  "review_appointments": 80,
+  "total_completed_appointments": 197,
+  "weekly_average_appointments": 5.245585421873773,
+  "weekly_appointment_target": 9,
+  "weekly_appointment_status": "Below Target",
+  "networking_events": 5,
+  "referrals": 8,
+  "other_activity_categories": null,
+  "households": 140,
+  "book_aum": 21424575.79,
+  "average_household_size": 153032.68421428572,
+  "book_of_business": {
+    "primary": {
+      "count": 8,
+      "aum": 1231592.05,
+      "averageHouseholdAum": 153949.00625
+    },
+    "secondary": {
+      "count": 8,
+      "aum": 2336737.77,
+      "averageHouseholdAum": 292092.22125
+    },
+    "servicing": {
+      "count": 124,
+      "aum": 17856245.97,
+      "averageHouseholdAum": 144001.98362903224
+    },
+    "target_client_goal": 500000
+  },
+  "revenue_production_metrics": {
+    "gross_inflows": 1612267.9865349997,
+    "total_outflows": 333639.39,
+    "net_flows": 1278628.5965349996,
+    "non_recurring_revenue_ytd": 0,
+    "non_recurring_revenue_current_quarter": 0,
+    "non_recurring_revenue_current_month": 0,
+    "monthly_production": {
+      "months": [
+        {
+          "month": "2026-01",
+          "primaryRevenue": 799.0011889997919,
+          "secondaryRevenue": 2113.4591656949997,
+          "totalRevenue": 2912.4603546947915,
+          "updatedAt": "2026-09-17T00:12:11.338Z",
+          "change": null,
+          "changePercent": null
+        },
+        {
+          "month": "2026-02",
+          "primaryRevenue": 808.4958253729166,
+          "secondaryRevenue": 2132.634682144183,
+          "totalRevenue": 2941.1305075170994,
+          "updatedAt": "2026-09-17T00:12:19.228Z",
+          "change": 28.670152822307955,
+          "changePercent": 0.9843963292441937
+        },
+        {
+          "month": "2026-03",
+          "primaryRevenue": 849.528353474906,
+          "secondaryRevenue": 1993.2725639797916,
+          "totalRevenue": 2842.800917454698,
+          "updatedAt": "2026-09-17T00:12:27.904Z",
+          "change": -98.32959006240162,
+          "changePercent": -3.343258308704274
+        },
+        {
+          "month": "2026-04",
+          "primaryRevenue": 874.4088110464583,
+          "secondaryRevenue": 2222.9014718437534,
+          "totalRevenue": 3097.3102828902115,
+          "updatedAt": "2026-09-17T00:12:35.925Z",
+          "change": 254.5093654355137,
+          "changePercent": 8.95276780983273
+        },
+        {
+          "month": "2026-05",
+          "primaryRevenue": 1036.265322697083,
+          "secondaryRevenue": 2302.8442633121413,
+          "totalRevenue": 3339.1095860092246,
+          "updatedAt": "2026-09-17T00:12:42.916Z",
+          "change": 241.79930311901308,
+          "changePercent": 7.806751052832249
+        },
+        {
+          "month": "2026-06",
+          "primaryRevenue": 1283.201575745,
+          "secondaryRevenue": 2220.446124667789,
+          "totalRevenue": 3503.6477004127887,
+          "updatedAt": "2026-09-17T00:12:51.960Z",
+          "change": 164.53811440356412,
+          "changePercent": 4.927604505493746
+        },
+        {
+          "month": "2026-07",
+          "primaryRevenue": 1010.8720458333333,
+          "secondaryRevenue": 2771.107630989163,
+          "totalRevenue": 3781.9796768224965,
+          "updatedAt": "2026-09-17T00:13:00.239Z",
+          "change": 278.33197640970775,
+          "changePercent": 7.944062879864193
+        },
+        {
+          "month": "2026-08",
+          "primaryRevenue": 1414.6536128360221,
+          "secondaryRevenue": 2785.4271107938657,
+          "totalRevenue": 4200.080723629888,
+          "updatedAt": "2026-09-17T00:13:09.634Z",
+          "change": 418.1010468073914,
+          "changePercent": 11.055084440820346
+        }
+      ],
+      "ytdRevenue": 26618.519749431194,
+      "latestMonth": {
+        "month": "2026-08",
+        "totalRevenue": 4200.080723629888,
+        "change": 418.1010468073914,
+        "changePercent": 11.055084440820346
+      }
+    }
+  },
+  "smart_goals": {
+    "annualGrossAum": 10000000,
+    "weeklyMeetings": 9,
+    "weeklyIntroMeetings": 2,
+    "monthlyQualifiedProspects": 8,
+    "weeklyNetworkingEvents": 1,
+    "annualNonRecurringRevenue": 60000,
+    "newClientAumStandard": "80%+ over $250k",
+    "quarterlyCentersOfInfluence": "1–2+",
+    "nonprofitPartnershipDeadline": "2026-09-30",
+    "quarterlyGrossAum": 2500000,
+    "monthlyGrossAum": 833333.3333333334,
+    "quarterlyNonRecurringRevenue": 15000,
+    "monthlyNonRecurringRevenue": 5000
+  },
+  "goal_progress": {
+    "grossProgressPercent": 16.122679865349998,
+    "projectedGoalStatus": "Off Track",
+    "pipelineCoverageOfRemainingGoal": 63.09274058237152,
+    "latestMonthlyProductionDirection": "Up",
+    "primaryAverageHouseholdStatus": "Below Target",
+    "secondaryAverageHouseholdStatus": "Below Target",
+    "servicingAverageHouseholdStatus": "Below Target"
+  },
+  "monthly_production_trend": [
+    {
+      "month": "2026-01",
+      "primaryRevenue": 799.0011889997919,
+      "secondaryRevenue": 2113.4591656949997,
+      "totalRevenue": 2912.4603546947915,
+      "updatedAt": "2026-09-17T00:12:11.338Z",
+      "change": null,
+      "changePercent": null
+    },
+    {
+      "month": "2026-02",
+      "primaryRevenue": 808.4958253729166,
+      "secondaryRevenue": 2132.634682144183,
+      "totalRevenue": 2941.1305075170994,
+      "updatedAt": "2026-09-17T00:12:19.228Z",
+      "change": 28.670152822307955,
+      "changePercent": 0.9843963292441937
+    },
+    {
+      "month": "2026-03",
+      "primaryRevenue": 849.528353474906,
+      "secondaryRevenue": 1993.2725639797916,
+      "totalRevenue": 2842.800917454698,
+      "updatedAt": "2026-09-17T00:12:27.904Z",
+      "change": -98.32959006240162,
+      "changePercent": -3.343258308704274
+    },
+    {
+      "month": "2026-04",
+      "primaryRevenue": 874.4088110464583,
+      "secondaryRevenue": 2222.9014718437534,
+      "totalRevenue": 3097.3102828902115,
+      "updatedAt": "2026-09-17T00:12:35.925Z",
+      "change": 254.5093654355137,
+      "changePercent": 8.95276780983273
+    },
+    {
+      "month": "2026-05",
+      "primaryRevenue": 1036.265322697083,
+      "secondaryRevenue": 2302.8442633121413,
+      "totalRevenue": 3339.1095860092246,
+      "updatedAt": "2026-09-17T00:12:42.916Z",
+      "change": 241.79930311901308,
+      "changePercent": 7.806751052832249
+    },
+    {
+      "month": "2026-06",
+      "primaryRevenue": 1283.201575745,
+      "secondaryRevenue": 2220.446124667789,
+      "totalRevenue": 3503.6477004127887,
+      "updatedAt": "2026-09-17T00:12:51.960Z",
+      "change": 164.53811440356412,
+      "changePercent": 4.927604505493746
+    },
+    {
+      "month": "2026-07",
+      "primaryRevenue": 1010.8720458333333,
+      "secondaryRevenue": 2771.107630989163,
+      "totalRevenue": 3781.9796768224965,
+      "updatedAt": "2026-09-17T00:13:00.239Z",
+      "change": 278.33197640970775,
+      "changePercent": 7.944062879864193
+    },
+    {
+      "month": "2026-08",
+      "primaryRevenue": 1414.6536128360221,
+      "secondaryRevenue": 2785.4271107938657,
+      "totalRevenue": 4200.080723629888,
+      "updatedAt": "2026-09-17T00:13:09.634Z",
+      "change": 418.1010468073914,
+      "changePercent": 11.055084440820346
+    }
+  ],
+  "monthly_appointment_trend": null,
+  "monthly_networking_trend": null,
+  "historical_period_values": [
+    {
+      "month": "2026-01",
+      "primaryRevenue": 799.0011889997919,
+      "secondaryRevenue": 2113.4591656949997,
+      "totalRevenue": 2912.4603546947915,
+      "updatedAt": "2026-09-17T00:12:11.338Z",
+      "change": null,
+      "changePercent": null
+    },
+    {
+      "month": "2026-02",
+      "primaryRevenue": 808.4958253729166,
+      "secondaryRevenue": 2132.634682144183,
+      "totalRevenue": 2941.1305075170994,
+      "updatedAt": "2026-09-17T00:12:19.228Z",
+      "change": 28.670152822307955,
+      "changePercent": 0.9843963292441937
+    },
+    {
+      "month": "2026-03",
+      "primaryRevenue": 849.528353474906,
+      "secondaryRevenue": 1993.2725639797916,
+      "totalRevenue": 2842.800917454698,
+      "updatedAt": "2026-09-17T00:12:27.904Z",
+      "change": -98.32959006240162,
+      "changePercent": -3.343258308704274
+    },
+    {
+      "month": "2026-04",
+      "primaryRevenue": 874.4088110464583,
+      "secondaryRevenue": 2222.9014718437534,
+      "totalRevenue": 3097.3102828902115,
+      "updatedAt": "2026-09-17T00:12:35.925Z",
+      "change": 254.5093654355137,
+      "changePercent": 8.95276780983273
+    },
+    {
+      "month": "2026-05",
+      "primaryRevenue": 1036.265322697083,
+      "secondaryRevenue": 2302.8442633121413,
+      "totalRevenue": 3339.1095860092246,
+      "updatedAt": "2026-09-17T00:12:42.916Z",
+      "change": 241.79930311901308,
+      "changePercent": 7.806751052832249
+    },
+    {
+      "month": "2026-06",
+      "primaryRevenue": 1283.201575745,
+      "secondaryRevenue": 2220.446124667789,
+      "totalRevenue": 3503.6477004127887,
+      "updatedAt": "2026-09-17T00:12:51.960Z",
+      "change": 164.53811440356412,
+      "changePercent": 4.927604505493746
+    },
+    {
+      "month": "2026-07",
+      "primaryRevenue": 1010.8720458333333,
+      "secondaryRevenue": 2771.107630989163,
+      "totalRevenue": 3781.9796768224965,
+      "updatedAt": "2026-09-17T00:13:00.239Z",
+      "change": 278.33197640970775,
+      "changePercent": 7.944062879864193
+    },
+    {
+      "month": "2026-08",
+      "primaryRevenue": 1414.6536128360221,
+      "secondaryRevenue": 2785.4271107938657,
+      "totalRevenue": 4200.080723629888,
+      "updatedAt": "2026-09-17T00:13:09.634Z",
+      "change": 418.1010468073914,
+      "changePercent": 11.055084440820346
+    }
+  ],
+  "current_pipeline_opportunities": null,
+  "pipeline_summary_by_stage": null,
+  "pipeline_summary": {
+    "weighted_through_year_end": 5292050,
+    "weighted_current_quarter": 845000,
+    "weighted_next_quarter": 4447050
+  },
+  "source_freshness": {
+    "scorecard": "2026-09-20T21:00:08.330Z",
+    "addepar": "2026-09-20T11:09:47.351Z",
+    "pipeline": "2026-09-20T21:00:08.330Z",
+    "monthlyRevenue": "2026-09-17T00:13:09.634Z",
+    "monthlyGrossInflows": "2026-09-20T11:11:18.255Z"
+  },
+  "data_availability": {
+    "referrals": "unavailable",
+    "monthlyProduction": "available",
+    "advisorFlows": "available"
+  },
+  "display_labels": {
+    "gross_aum_mtd": "Gross AUM MTD",
+    "gross_aum_ytd": "Gross AUM YTD",
+    "annual_gross_aum_goal": "Annual Gross AUM Goal",
+    "percent_to_goal": "Percent to Goal",
+    "remaining_amount_to_goal": "Remaining Amount to Goal",
+    "weighted_pipeline": "Weighted Pipeline",
+    "unweighted_pipeline": "Unweighted Pipeline",
+    "projected_year_end_production": "Projected Year-End Production",
+    "projected_year_end_percent_to_goal": "Projected Year-End Percent to Goal",
+    "goal_outlook": "Goal Outlook",
+    "intro_appointments": "Intro Appointments",
+    "review_appointments": "Review Appointments",
+    "total_completed_appointments": "Total Completed Appointments",
+    "weekly_average_appointments": "Weekly Average Appointments",
+    "networking_events": "Networking Events",
+    "referrals": "Referrals",
+    "households": "Households",
+    "book_aum": "Book AUM",
+    "average_household_size": "Average Household AUM"
+  },
+  "notes": [
+    "Unavailable source values are represented as null.",
+    "Close is the dashboard label for the at-risk range of 85% through 99.9% projected to goal."
+  ]
+}
